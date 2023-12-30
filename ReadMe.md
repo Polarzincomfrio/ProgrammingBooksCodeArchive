@@ -24,6 +24,6 @@ Happy coding and happy learning!
 ## List of Books in this repository
 
 ### Python
-* [Teach Your Kids to Code](https://github.com/Polarzincomfrio/Programming-Books-Code-Archive/tree/main/Python%20Books/Teach%20Your%20Kids%20How%20To%20Code) ([Buy Here]())
-    * [Chapter 1](https://github.com/Polarzincomfrio/Programming-Books-Code-Archive/tree/main/Python%20Books/Teach%20Your%20Kids%20How%20To%20Code/Chapter%201)
-    * [Chapter 2](https://github.com/Polarzincomfrio/Programming-Books-Code-Archive/tree/main/Python%20Books/Teach%20Your%20Kids%20How%20To%20Code/Chapter%202)
+* [Teach Your Kids to Code](https://github.com/Polarzincomfrio/ProgrammingBooksCodeArchive/tree/main/PythonBooks/TeachYourKidsHowToCode) ([Buy Here](https://a.co/d/5tYMl6Z))
+    * [Chapter 1](https://github.com/Polarzincomfrio/ProgrammingBooksCodeArchive/tree/main/PythonBooks/TeachYourKidsHowToCode/Chapter1)
+    * [Chapter 2](https://github.com/Polarzincomfrio/ProgrammingBooksCodeArchive/tree/main/PythonBooks/TeachYourKidsHowToCode/Chapter2)
