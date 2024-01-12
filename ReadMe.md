@@ -27,3 +27,4 @@ Happy coding and happy learning!
 * [Teach Your Kids to Code](https://github.com/Polarzincomfrio/ProgrammingBooksCodeArchive/tree/main/PythonBooks/TeachYourKidsHowToCode) ([Buy Here](https://a.co/d/5tYMl6Z))
     * [Chapter 1](https://github.com/Polarzincomfrio/ProgrammingBooksCodeArchive/tree/main/PythonBooks/TeachYourKidsHowToCode/Chapter1)
     * [Chapter 2](https://github.com/Polarzincomfrio/ProgrammingBooksCodeArchive/tree/main/PythonBooks/TeachYourKidsHowToCode/Chapter2)
+    * [Chapter 3](https://github.com/Polarzincomfrio/ProgrammingBooksCodeArchive/tree/main/PythonBooks/TeachYourKidsHowToCode/Chapter3)
