@@ -23,6 +23,10 @@ Happy coding and happy learning!
 
 ## List of Books in this repository
 
+### C++
+* [C++ Primer Plus (6th Edition)](https://github.com/Polarzincomfrio/ProgrammingBooksCodeArchive/tree/main/CppBooks/CppPrimerPlus) ([Buy Here](https://a.co/d/3y4Ehh2))
+   * Chapter 1 - Doesn't have any code snippets/exercises
+   * [Chapter 2](https://github.com/Polarzincomfrio/ProgrammingBooksCodeArchive/tree/main/CppBooks/CppPrimerPlus/Chapter2)
 ### Python
 * [Teach Your Kids to Code](https://github.com/Polarzincomfrio/ProgrammingBooksCodeArchive/tree/main/PythonBooks/TeachYourKidsHowToCode) ([Buy Here](https://a.co/d/5tYMl6Z))
     * [Chapter 1](https://github.com/Polarzincomfrio/ProgrammingBooksCodeArchive/tree/main/PythonBooks/TeachYourKidsHowToCode/Chapter1)
